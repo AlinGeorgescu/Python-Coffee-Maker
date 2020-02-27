@@ -1,4 +1,5 @@
 """
+(C) Copyright 2020
 A command-line controlled coffee maker.
 """
 
